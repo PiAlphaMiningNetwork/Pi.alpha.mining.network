@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Download the Pi Alpha Mining Network App & Earn Dollars!">
+    <meta name="keywords" content="Pi Alpha Mining, Earn Dollars, Mining App, APK Download, Android App">
+    <title>Pi Alpha Mining Network</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+        }
+        header h1 {
+            margin: 0;
+        }
+        section {
+            padding: 20px;
+        }
+        .cta-button {
+            background-color: #28a745;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+        }
+        .cta-button:hover {
+            background-color: #218838;
+        }
+        .features {
+            display: flex;
+            justify-content: space-around;
+            padding: 20px;
+            margin-top: 30px;
+        }
+        .feature-item {
+            width: 30%;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 20px 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        footer a {
+            color: #28a745;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Pi Alpha Mining Network App</h1>
+    <p>Download the app and start earning today!</p>
+</header>
+
+<section>
+    <h2>Welcome to Pi Alpha Mining Network</h2>
+    <p>Earn dollars by mining Pi Alpha tokens with our easy-to-use app. Withdraw anytime, anywhere!</p>
+    <a href="https://apk.e-droid.net/apk/app3008563-cs7ebi.apk?v=2" class="cta-button">Download Now</a>
+</section>
+
+<section class="features">
+    <div class="feature-item">
+        <h3>Easy Mining</h3>
+        <p>With just a click, start mining Pi Alpha tokens and watch your balance grow. No technical expertise needed!</p>
+    </div>
+    <div class="feature-item">
+        <h3>Earn Dollars</h3>
+        <p>Withdraw your earnings anytime in dollars. You can track your progress in real-time through the app.</p>
+    </div>
+    <div class="feature-item">
+        <h3>24/7 Access</h3>
+        <p>Mine from anywhere, at any time. No restrictions, no downtime. Your earnings, your control.</p>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2024 Pi Alpha Mining Network. All rights reserved.</p>
+    <p><a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
+</footer>
+
+</body>
+</html>
